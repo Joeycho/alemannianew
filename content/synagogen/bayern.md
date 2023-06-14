@@ -1,5 +1,5 @@
 ---
-title: 1. Synagogen in Bayern
+title: Synagogen in Bayern
 images: 
 - https://www.alemannia-judaica.de/images/Images%20126/Synagogengedenkbuch%20PA%20011.jpg
 ---
@@ -25,5 +25,13 @@ Die Synagogen in Bayern sind nicht nur historisch und kulturell bedeutsam, sonde
 5. [Oberbayern](https://www.alemannia-judaica.de/synagogen_bayern.htm#Oberbayern)
 6. [Niederbayern](https://www.alemannia-judaica.de/synagogen_bayern.htm#Niederbayern%C2%A0%C2%A0)
 7. [Bayrisch Schwaben](https://www.alemannia-judaica.de/synagogen.htm#Bayrisch%20Schwaben)
+
+#### Kontakt
+
+Landesverband der Israelitischen Kultusgemeinden In Bayern K.D.Ö.R
+    
+Effnerstraße 68, 81925, München Bayern
+Präsident: Dr. Josef Schuster
+Webseite: https://www.ikg-bayern.de/
 
 → [Synagogen in Baden-Württemberg](/synagogen/baden)

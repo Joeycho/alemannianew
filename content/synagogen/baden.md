@@ -1,5 +1,5 @@
 ---
-title: 2. Synagogen in Baden-Württemberg
+title: Synagogen in Baden-Württemberg
 images: 
 - https://upload.wikimedia.org/wikipedia/commons/e/ef/BadenBaden-Synagogue-1920s.jpg
 ---
@@ -19,3 +19,16 @@ Die Synagogen in Baden-Württemberg sind nicht nur religiöse Stätten, sondern 
 #### Nach den Regierungsbezirken
 
 [Synagogen in Baden-Württemberg](https://www.alemannia-judaica.de/synagogen.htm#Baden-W%C3%BCrttemberg%C2%A0)
+
+#### Kontakt
+
+IRG Baden K.d.ö.R
+Knielinger Allee 11, 76133, Karlsruhe
+Telefon: +49 721 97250-0
+Email: info@irg-baden.de
+Webseite: https://irg-baden.de/de/
+    
+Israelitische Religionsgemeinschaft Württembergs (Stuttgart) K.D.Ö.R.
+Hospitalstrasse 36, 70174, Stuttgart
+Email: info@rgw.de
+Webseite: https://www.irgw.de/
