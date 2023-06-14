@@ -4,20 +4,24 @@
     "Bundesland": "Bayern",
     "Adresse": "Effnerstraße 68, 81925, München Bayern",
     "Webseite": "https://www.ikg-bayern.de/",
-    "Präsident": "Dr. Josef Schuster"
+    "Präsident": "Dr. Josef Schuster",
+    "icon": "https://www.ikg-bayern.de/wp-content/uploads/2019/01/favicon.png"
   },
   {
     "Landsverband": "IRG Baden K.d.ö.R",
     "Bundesland": "Baden-Württemberg",
     "Adresse": "Knielinger Allee 11, 76133, Karlsruhe",
     "Telefon": "+49 721 97250-0",
-    "Email": "info@irg-baden.de"
+    "Email": "info@irg-baden.de",
+    "Webseite": "https://irg-baden.de/de/",
+    "icon": "https://irg-baden.de/files/gfx/logo.gif"
   },
   {
     "Landsverband": "Israelitische Religionsgemeinschaft Württembergs (Stuttgart) K.D.Ö.R.",
     "Bundesland": "Baden-Württemberg",
     "Adresse": "Hospitalstrasse 36, 70174, Stuttgart",
     "Webseite": "https://www.irgw.de/",
-    "Email": "info@rgw.de"
+    "Email": "info@rgw.de",
+    "icon": "https://upload.wikimedia.org/wikipedia/de/thumb/7/7e/Logo-IRGW.svg/640px-Logo-IRGW.svg.png"
   }
 ]

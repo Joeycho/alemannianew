@@ -9,10 +9,10 @@
 
   <div class="px-6 pb-6 w-full lg:w-[580px] max-w-[65ch] mx-auto flex flex-col gap-5 h-fit">
     {{ range $index, $stack := .Site.Data.kontakt }}
-    <a href="{{ .link }}" target="_blank" rel="noopener noreferrer"
+    <a href="{{ .Webseite}}" target="_blank" rel="noopener noreferrer"
       class="flex items-center gap-2.5 p-4 rounded hover:bg-slate-200 dark:hover:bg-slate-700 group {{ if not (modBool $index 2) }} flex-row-reverse text-right {{ end }}">
       {{ if .icon }}
-      <img src="{{ .icon }}" alt="{{ .name }}" class="w-20 h-20" />
+      <img src="{{.icon}}" alt="{{ .Landsverband}}" class="w-20 h-20" />
       {{ else }}
       <div
         class="w-20 h-20 text-7xl uppercase grid place-items-center p-4 rounded bg-slate-500 text-white group-hover:text-slate-200 dark:text-slate-900 dark:group-hover:text-slate-700 font-bold">
