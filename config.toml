@@ -34,15 +34,15 @@ googleAnalytics = "UA-PROPERTY_ID"
 [[menu.main]]
   name = 'Kontakt'
   url = '/kontakt'
-  weight = 1
+  weight = 6
 [[menu.main]]
   name = 'Links'
   params.header = true
-  weight = 6
+  weight = 7
 [[menu.main]]
   name = 'Alteseite'
   url = 'https://www.alemannia-judaica.de/'
-  weight = 7
+  weight = 8
 
 [Params.newsletter]
   title = ""
