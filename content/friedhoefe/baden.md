@@ -16,8 +16,9 @@ Besucher haben die Möglichkeit, die jüdischen Friedhöfe in Baden-Württemberg
 
 #### Nach den Regierungsbezirken
 
-[Jüdische Friedhöfe in Baden](https://www.alemannia-judaica.de/baden_wuerttemberg_friedhoefe.htm#Baden)
-[Jüdische Friedhöfe in Württemberg und Hohenzollern](https://www.alemannia-judaica.de/baden_wuerttemberg_friedhoefe.htm#W%C3%BCrttemberg%20und%20Hohenzollern)
+[Baden](https://www.alemannia-judaica.de/baden_wuerttemberg_friedhoefe.htm#Baden)
+
+[Württemberg und Hohenzollern](https://www.alemannia-judaica.de/baden_wuerttemberg_friedhoefe.htm#W%C3%BCrttemberg%20und%20Hohenzollern)
 
 #### Kontakt
 
