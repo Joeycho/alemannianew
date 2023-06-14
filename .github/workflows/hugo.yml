@@ -52,7 +52,7 @@ jobs:
         id: pages
         uses: actions/configure-pages@v3
       - name: Install Node.js dependencies
-        run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm run dev || true"
+        run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm run build || true"
       - name: Build with Hugo
         env:
           # For maximum backward compatibility with Hugo modules
