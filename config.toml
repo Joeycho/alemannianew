@@ -2,7 +2,7 @@ title = "Natan.com"
 theme = 'digitalgarden'
 languageCode = 'de-DE'
 
-RelativeURLs=true
+baseURL = "/"
 googleAnalytics = "UA-PROPERTY_ID"
 
 [Params]
