@@ -2,25 +2,29 @@
 title: Rechtliches
 ---
 
-# Kontakt
+# Impressum
 
-**Arbeitsgemeinschaft für die Erforschung der Geschichte der Juden im süddeutschen und angrenzenden Raum**
+## Angaben gemäß § 5 TMG:
+Niklas Klingel
+Dachauer Straße 25 
+80335 München 
 
-Alemannia Judaica - Arbeitsgemeinschaft zur Erforschung der jüdischen Geschichte im süddeutschen und angrenzenden Raum    
+## Vertreten durch:
+Picus IT Services  
+ 
+## Kontakt:
+E-Mail: info@picusapp.com
 
-Kontaktadresse über den Webmaster:    
-Dr. Joachim Hahn
-Alemannia Judaica    
-Schulstraße 18  
-D-73207 Plochingen   
-E-Mail: mailbox[et]alemannia-judaica.de    
+## Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:
+Niklas Klingel
+Dachauer Straße 25 
+80335 München
 
-LANDESVERBAND DER ISRAELITISCHEN KULTUSGEMEINDEN IN BAYERN K.D.Ö.R
+## Haftungsausschluss:
+Haftung für Inhalte  
+Haftung für Links  
+Urheberrecht  
 
-Effnerstraße 68
-81925 München
-Bayern
-
-www.ikg-bayern.de/
-
-Präsident: Dr. Josef Schuster
+## Datenschutzbericht:
+Unsere Website erhebt keinerlei persönliche Daten von Besuchern. Es werden keine Cookies oder ähnliche Tracking-Technologien eingesetzt. Somit findet keine Speicherung, Verarbeitung oder Weitergabe personenbezogener Daten statt.  
+Falls Sie Fragen zum Datenschutz haben, kontaktieren Sie uns bitte unter den oben genannten Kontaktdaten.

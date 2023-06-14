@@ -35,14 +35,36 @@ googleAnalytics = "UA-PROPERTY_ID"
   name = 'Kontakt'
   url = '/kontakt'
   weight = 6
+
 [[menu.main]]
-  name = 'Links'
+  name = 'Gesellschaft'
   params.header = true
   weight = 7
 [[menu.main]]
+  name = 'Sport'
+  url = '/sport'
+  weight = 8
+[[menu.main]]
+  name = 'Initiativen'
+  url = '/initiativen'
+  weight = 9
+[[menu.main]]
+  name = 'Antisemitismus'
+  url = '/anti'
+  weight = 10
+[[menu.main]]
+  name = 'Kultur'
+  url = '/kultur'
+  weight = 11
+
+[[menu.main]]
+  name = 'Links'
+  params.header = true
+  weight = 12
+[[menu.main]]
   name = 'Alteseite'
   url = 'https://www.alemannia-judaica.de/'
-  weight = 8
+  weight = 13
 
 [Params.newsletter]
   title = ""
