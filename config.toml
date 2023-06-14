@@ -2,6 +2,7 @@ title = "Natan.com"
 theme = 'digitalgarden'
 languageCode = 'de-DE'
 
+publishDir = "/alemannianew"
 googleAnalytics = "UA-PROPERTY_ID"
 
 [Params]
