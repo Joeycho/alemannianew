@@ -2,7 +2,7 @@ title = "Natan.com"
 theme = 'digitalgarden'
 languageCode = 'de-DE'
 
-canonifyURLs: true
+canonifyURLs= true
 googleAnalytics = "UA-PROPERTY_ID"
 
 [Params]
