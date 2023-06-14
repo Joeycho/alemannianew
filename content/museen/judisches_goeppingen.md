@@ -1,6 +1,5 @@
 ---
 title: Jüdisches Museum Göppingen
-date: 2021-12-19
 images: 
 - https://upload.wikimedia.org/wikipedia/commons/9/9b/Alte_Kirche_Jebenhausen_2019_003.jpg
 ---

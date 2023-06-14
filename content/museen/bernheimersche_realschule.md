@@ -1,6 +1,5 @@
 ---
 title: Bernheimersche Realschule
-date: 2021-12-19
 images: 
 - https://upload.wikimedia.org/wikipedia/commons/f/fd/Bernheimersche_Realschule.jpg
 ---

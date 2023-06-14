@@ -1,6 +1,5 @@
 ---
 title: 1. Synagogen in Bayern
-date: 2021-12-19
 images: 
 - https://www.alemannia-judaica.de/images/Images%20126/Synagogengedenkbuch%20PA%20011.jpg
 ---

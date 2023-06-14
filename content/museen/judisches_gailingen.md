@@ -1,6 +1,5 @@
 ---
 title: Jüdisches Museum Gailingen
-date: 2021-12-19
 images: 
 - https://mein.toubiz.de/api/v1/article/5de615a4-61a5-4f53-ab84-cf8cf23bc617/mainImage?format=image/jpeg&width=1900
 ---

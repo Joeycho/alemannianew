@@ -1,6 +1,5 @@
 ---
 title: Erinnerungsort Badehaus
-date: 2021-12-19
 images: 
 - https://upload.wikimedia.org/wikipedia/commons/4/46/Badehaus_Mahnblume_2021.jpg
 ---

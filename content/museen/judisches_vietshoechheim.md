@@ -1,6 +1,5 @@
 ---
 title: Jüdisches Kulturmuseum Veitshöchheim
-date: 2021-12-19
 images: 
 - https://upload.wikimedia.org/wikipedia/commons/2/2b/Museumsanlage_gesamt.jpg
 ---

@@ -1,6 +1,5 @@
 ---
 title: Jüdisches Museum München
-date: 2021-12-19
 images: 
 - https://upload.wikimedia.org/wikipedia/commons/e/e2/J%C3%BCdisches_Museum_M%C3%BCnchen_7437.jpg
 ---
@@ -16,3 +15,5 @@ Das Jüdische Museum München verfügt über eine beeindruckende Sammlung von Ku
 Darüber hinaus veranstaltet das Jüdische Museum München regelmäßig kulturelle Veranstaltungen, Vorträge, Konzerte und Workshops, um das Bewusstsein für die jüdische Kultur zu fördern und den interkulturellen Dialog zu unterstützen. Das Museum dient auch als Ort des Gedenkens an die Opfer des Holocausts und der Sensibilisierung für die Bedeutung von Toleranz, Respekt und Verständnis.
 
 Das Jüdische Museum München ist eine wichtige Institution für die Förderung des interreligiösen Dialogs, der kulturellen Vielfalt und des gegenseitigen Verständnisses in der Gesellschaft. Es trägt dazu bei, die jüdische Geschichte und Kultur lebendig zu erhalten und gleichzeitig eine Plattform für den Austausch und die Begegnung zwischen verschiedenen Gemeinschaften zu schaffen.
+
+Von [ChatGPT](https://chat.openai.com)

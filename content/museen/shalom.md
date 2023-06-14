@@ -1,6 +1,5 @@
 ---
 title: Shalom Europa
-date: 2021-12-19
 images: 
 - https://upload.wikimedia.org/wikipedia/commons/5/53/Shalom_Europa.jpg
 ---
@@ -17,3 +16,4 @@ Darüber hinaus arbeitet "Shalom Europa" auch mit Schulen, Universitäten, Gemei
 
 "Shalom Europa" spielt eine wichtige Rolle bei der Förderung von Toleranz, Respekt und Verständnis in Europa. Es ermutigt Menschen verschiedener kultureller und religiöser Hintergründe, miteinander in Dialog zu treten und eine gemeinsame Grundlage des Friedens und der Zusammenarbeit zu schaffen. Durch seine Aktivitäten trägt "Shalom Europa" zur Stärkung der jüdischen Gemeinschaft und zur Förderung einer pluralistischen und vielfältigen Gesellschaft bei.
 
+Von [ChatGPT](https://chat.openai.com)

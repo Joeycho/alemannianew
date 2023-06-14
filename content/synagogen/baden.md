@@ -1,6 +1,5 @@
 ---
 title: 2. Synagogen in Baden-Württemberg
-date: 2021-12-19
 images: 
 - https://upload.wikimedia.org/wikipedia/commons/e/ef/BadenBaden-Synagogue-1920s.jpg
 ---

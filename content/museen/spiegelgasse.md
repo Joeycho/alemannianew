@@ -1,6 +1,5 @@
 ---
 title: Aktives Museum Spiegelgasse
-date: 2021-12-19
 images: 
 - https://upload.wikimedia.org/wikipedia/commons/b/b6/MK7189_Spiegelgasse_9.jpg
 ---

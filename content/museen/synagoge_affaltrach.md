@@ -1,6 +1,5 @@
 ---
 title: Synagoge Affaltrach
-date: 2021-12-19
 images: 
 - https://upload.wikimedia.org/wikipedia/commons/0/07/Obersulm_Affaltrach_Synagoge_20061126.jpg
 ---

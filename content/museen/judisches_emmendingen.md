@@ -1,6 +1,5 @@
 ---
 title: Jüdisches Museum Creglingen
-date: 2021-12-19
 images: 
 - https://upload.wikimedia.org/wikipedia/commons/8/89/Mikva_%28Emmendingen%29.jpg
 ---

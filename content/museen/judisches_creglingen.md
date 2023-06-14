@@ -1,6 +1,5 @@
 ---
 title: Jüdisches Museum Creglingen
-date: 2021-12-19
 images: 
 - https://upload.wikimedia.org/wikipedia/commons/d/d7/Creglingen_J%C3%BCdisches_Museum_962.jpg
 ---

@@ -1,6 +1,5 @@
 ---
 title: Jüdisches Museum Frankfurt
-date: 2021-12-19
 images: 
 - https://upload.wikimedia.org/wikipedia/commons/5/55/Frankfurt_Am_Main-Untermainkai_15_von_Suedwesten-20100808.jpg
 ---
