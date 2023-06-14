@@ -47,7 +47,7 @@ jobs:
           fetch-depth: 0
       - name: postcss-cli
         run: |
-          "npm i -g postcss-cli"           
+          npm i -g postcss-cli           
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v3
