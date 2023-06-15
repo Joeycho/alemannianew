@@ -4,7 +4,7 @@ images:
 - https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2NN1pePOweGQ2csTREVhMofJtwuTuSXLiNA&usqp=CAU
 ---
 
-# Josef Buchmann - Ein Unternehmer und Mäzen mit großer Wirkung
+## Josef Buchmann - Ein Unternehmer und Mäzen mit großer Wirkung
 
 Josef Buchmann, geboren 1931 in Łódź, ist ein bedeutender deutscher Unternehmer und Mäzen polnisch-jüdischer Herkunft. Er hat sich insbesondere als Immobilieninvestor in Frankfurt am Main einen Namen gemacht und gilt als einer der reichsten Bürger Deutschlands. Sein Vermögen wurde 2011 auf etwa eine Milliarde Euro geschätzt.
 

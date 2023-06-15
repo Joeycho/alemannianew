@@ -10,7 +10,6 @@ Initiative NATAN
 Niklas Klingel
 
 Dachauer Straße 25 
-
 80335 München
 
 E-Mail: info@picusapp.com
@@ -21,7 +20,6 @@ Initiative NATAN
 Niklas Klingel
 
 Dachauer Straße 25 
-
 80335 München 
  
 ## Kontakt:
@@ -33,7 +31,6 @@ Initiative NATAN
 Niklas Klingel
 
 Dachauer Straße 25 
-
 80335 München
 
 ## Haftungsausschluss:
