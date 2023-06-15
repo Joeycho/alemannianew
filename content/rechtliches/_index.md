@@ -12,6 +12,7 @@ Niklas Klingel
 Dachauer Straße 25 
 80335 München
 
+Telefon: +49 721 / 7540755 0
 E-Mail: info@picusapp.com
 
 ## Vertreten durch:
