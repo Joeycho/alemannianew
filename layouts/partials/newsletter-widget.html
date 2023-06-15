@@ -1,5 +1,5 @@
 <div class="newsletter-widget">
-  <div class="text-bold text-sm">{{ if .Site.Params.newsletter.title }}{{ .Site.Params.newsletter.title }}{{ else }}Abonnieren Sie meinen Newsletter{ end }}</div>
+  <div class="text-bold text-sm">{{ if .Site.Params.newsletter.title }}{{ .Site.Params.newsletter.title }}{{ else }}Abonnieren Sie meinen Newsletter{{ end }}</div>
   {{ with .Site.Params.newsletter.description }}
   <p class="text-xs my-1 text-slate-500">{{ . }}</p>
   {{ end }}
