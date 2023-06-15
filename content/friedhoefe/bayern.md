@@ -29,7 +29,9 @@ Die jüdischen Friedhöfe in Bayern sind nicht nur Orte des Gedenkens, sondern a
 Landesverband der Israelitischen Kultusgemeinden In Bayern K.D.Ö.R
     
 Effnerstraße 68, 81925, München Bayern
+
 Präsident: Dr. Josef Schuster
-Webseite: https://www.ikg-bayern.de/
+
+Website: https://www.ikg-bayern.de/
 
 → [Jüdische Friedhöfe in Baden-Württemberg](/friedhoefe/baden)

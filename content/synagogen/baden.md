@@ -24,11 +24,16 @@ Die Synagogen in Baden-Württemberg sind nicht nur religiöse Stätten, sondern 
 
 IRG Baden K.d.ö.R
 Knielinger Allee 11, 76133, Karlsruhe
+
 Telefon: +49 721 97250-0
+
 Email: info@irg-baden.de
-Webseite: https://irg-baden.de/de/
+
+Website: https://irg-baden.de/de/
     
 Israelitische Religionsgemeinschaft Württembergs (Stuttgart) K.D.Ö.R.
 Hospitalstrasse 36, 70174, Stuttgart
+
 Email: info@rgw.de
-Webseite: https://www.irgw.de/
+
+Website: https://www.irgw.de/

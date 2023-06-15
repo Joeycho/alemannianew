@@ -1,4 +1,4 @@
-title = "Natan.com"
+title = "NATAN"
 theme = 'digitalgarden'
 languageCode = 'de-DE'
 
@@ -56,15 +56,19 @@ googleAnalytics = "UA-PROPERTY_ID"
   name = 'Kultur'
   url = '/kultur'
   weight = 11
+[[menu.main]]
+  name = 'Im Portrait'
+  url = '/portrait'
+  weight = 12
 
 [[menu.main]]
   name = 'Links'
   params.header = true
-  weight = 12
-[[menu.main]]
-  name = 'Alteseite'
-  url = 'https://www.alemannia-judaica.de/'
   weight = 13
+[[menu.main]]
+  name = 'Rechtliches'
+  url = '/rechtliches'
+  weight = 14
 
 [Params.newsletter]
   title = ""
