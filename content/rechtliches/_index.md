@@ -5,19 +5,35 @@ title: Rechtliches
 # Impressum
 
 ## Angaben gemäß § 5 TMG:
+Initiative NATAN 
+
 Niklas Klingel
+
 Dachauer Straße 25 
-80335 München 
+
+80335 München
+
+E-Mail: info@picusapp.com
 
 ## Vertreten durch:
-Picus IT Services  
+Initiative NATAN 
+
+Niklas Klingel
+
+Dachauer Straße 25 
+
+80335 München 
  
 ## Kontakt:
 E-Mail: info@picusapp.com
 
 ## Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:
+Initiative NATAN 
+
 Niklas Klingel
+
 Dachauer Straße 25 
+
 80335 München
 
 ## Haftungsausschluss:
