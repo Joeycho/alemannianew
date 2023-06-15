@@ -26,5 +26,6 @@ Antisemitismus ist eine traurige Realität in der deutschen Gesellschaft, aber w
 
 Sie möchten einen Vorfall melden: 
 https://report-antisemitism.de/
+
 Mehr Informationen finden Sie auch auf der Website der ADL: 
 https://www.adl.org/resources/tools-to-track-hate
