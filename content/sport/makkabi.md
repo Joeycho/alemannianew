@@ -1,5 +1,5 @@
 ---
-title: Jüdische Friedhöfe in Baden-Württemberg
+title: Makkabi Berlin as the First Jewish Club in the DFB Pokal
 date: 2023-06-13
 images: 
 - https://images.sportschau.de/image/b328a691-e847-45ab-917c-9829533da46b/AAABiIH1kh8/AAABg8tMRzY/20x9-1280/jubel-tus-makkabi-berlin-100.webp
