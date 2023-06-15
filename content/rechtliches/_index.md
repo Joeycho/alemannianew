@@ -7,7 +7,7 @@ title: Rechtliches
 ## Angaben gemäß § 5 TMG:
 Initiative NATAN 
 
-Niklas Klingel
+Niklas Klingel & Jaeyoung Cho
 
 Dachauer Straße 25 
 
@@ -18,7 +18,7 @@ E-Mail: info@picusapp.com
 ## Vertreten durch:
 Initiative NATAN 
 
-Niklas Klingel
+Niklas Klingel & Jaeyoung Cho
 
 Dachauer Straße 25 
 
@@ -30,7 +30,7 @@ E-Mail: info@picusapp.com
 ## Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:
 Initiative NATAN 
 
-Niklas Klingel
+Niklas Klingel & Jaeyoung Cho
 
 Dachauer Straße 25 
 
