@@ -72,7 +72,7 @@ googleAnalytics = "UA-PROPERTY_ID"
 
 [Params.newsletter]
   title = ""
-  description = "A curated weekly digest once a week to your mailbox"
+  description = "Eine kuratierte wöchentliche Übersicht einmal pro Woche in Ihrem Postfach"
 
   # Supports buttondown, substack and revue
   provider = "buttondown"
