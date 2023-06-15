@@ -5,8 +5,6 @@ images:
 - https://images.sportschau.de/image/b328a691-e847-45ab-917c-9829533da46b/AAABiIH1kh8/AAABg8tMRzY/20x9-1280/jubel-tus-makkabi-berlin-100.webp
 ---
 
-# Makkabi Berlin as the First Jewish Club in the DFB Pokal
-
 Recently, history was made in German football as Makkabi Berlin became the first-ever Jewish club to participate in the DFB Pokal. This remarkable achievement marks a significant step forward for inclusivity and diversity in German sports.
 
 ## The Journey of Makkabi Berlin
