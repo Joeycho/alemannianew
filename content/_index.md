@@ -2,9 +2,9 @@
 title: Homepage
 ---
 
-
+  
 ## Entdecken Sie das jüdische Erbe Süddeutschlands
-Willkommen bei Jüdisches Erbe Süddeutschland! Auf unserer Website finden Sie eine umfassende Auflistung aller Synagogen, Friedhöfe und Museen in Süddeutschland. Tauchen Sie ein in die faszinierende Welt des jüdischen Erbes und entdecken Sie die historischen Stätten und kulturellen Schätze, die diese Region zu bieten hat.
+Willkommen bei der Initiative NATAN! Auf unserer Website finden Sie eine umfassende Auflistung aller Synagogen, Friedhöfe und Museen in Süddeutschland. Tauchen Sie ein in die faszinierende Welt des jüdischen Erbes von gestern und heute und entdecken Sie die historischen Stätten und kulturellen Schätze, die diese Region zu bieten hat.
 Gemeinsam ehemalige jüdische Gemeinden wiederbeleben
 Unsere Website bietet Ihnen nicht nur die Möglichkeit, die Geschichte zu erkunden, sondern auch aktiv zur Wiederbelebung ehemaliger jüdischer Gemeinden beizutragen. Wir stellen Ihnen Kontakte zu den Landesverbänden zur Verfügung, damit Sie sich engagieren und an der Aufbauarbeit teilnehmen können. Zusammen können wir das jüdische Leben in Süddeutschland wieder erblühen lassen.
 ## Gemeinsam gegen Antisemitismus vorgehen
